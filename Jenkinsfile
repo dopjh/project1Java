@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    registry = "dopjh/project1"
+    registry = "dopjh/project1java"
     registryCredential = 'dockerhub'
     dockerImage = ''
   }
